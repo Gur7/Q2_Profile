@@ -1,0 +1,21 @@
+body {
+	background-color: lightskyblue;
+	color: whitesmoke;
+}
+
+.container {
+	background-color: darkblue;
+}
+
+img {
+	width: 183px;
+	float: left;
+}
+
+p {
+	text-align: left;
+}
+
+h2 {
+	text-align: left;
+}
